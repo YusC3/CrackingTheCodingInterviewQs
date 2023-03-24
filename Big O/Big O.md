@@ -5,15 +5,16 @@ The concept of asymptotic runtime, or Big O, is also called___?
 Give at least 4 different runtimes (just list):
 
 What are the different “CASE” scenarios as explained in the book? Explain each one. (hint: only 3)
--	 
--	 
--	 
+    -	 
+    -	 
+    -	 
+
 What is another factor we might care about in an algorithm? (hint: considered PARALLEL to Big O)
 
 Do recursive calls take up memory?
 
 Write the Big O for Space for this function: 
-![alt text](writebigoforthisfunction.png "An algorithm written in Java")
+![alt text](writebigoforthisfunction.PNG "An algorithm written in Java")
  
 Write the Big O for space for this function:
 ![alt text](writebigoforthisfunction2.png "An algorithm written in Java")
